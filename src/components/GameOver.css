@@ -23,3 +23,9 @@
     margin-top: 3rem;
     height: 300px;
 }
+
+#gameover .feedback{
+    margin-top: .5rem;
+    font-weight: 400;
+    color: white;
+}

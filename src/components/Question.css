@@ -24,3 +24,9 @@
     margin-top: 3rem;
 }
 
+@media (max-width: 420px){
+    #question {
+        max-width: 300px;
+    }
+}
+
