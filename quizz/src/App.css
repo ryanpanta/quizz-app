@@ -9,5 +9,12 @@
 
 .App h1 {
     margin-bottom: 1.5rem;
-    font-size: 48px;
+    font-size: 42px;
+}
+
+@media (max-width:420px) {
+  .App h1 {
+    font-size: 32px;
+  }
+  
 }
